@@ -157,6 +157,6 @@ Project ini dibuat untuk keperluan Final Project mata kuliah PBO.
 
 Untuk pertanyaan atau feedback, hubungi:
 - Email: [nabilfannani_7@student.uns.ac.id and ....]
-- GitHub Issues: [Link to issues]
+- GitHub Issues: [https://github.com/Nabil-Fan/Water-and-Poo-Reminder/]
 
 ---
