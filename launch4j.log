@@ -1,0 +1,42 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\VOSTRO DELL\Desktop\java\projekpbo\WaterReminder\WaterPooTracker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\VOSTRO DELL\Desktop\java\projekpbo\WaterReminder\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-23
+Substitute:	PATH = C:\Program Files\Java\jdk-23\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\VOSTRO DELL\AppData\Local\Programs\Ollama\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\Program Files\Java\jdk-23;E:\Git\cmd;D:\laragon\bin\php\php-8.1.10-Win32-vs16-x64;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\ComposerSetup\bin;C:\xampp\php;C:\Program Files\Apache\Maven\apache-maven-3.9.10\bin;C:\Program Files\nodejs\;F:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;F:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Users\VOSTRO DELL\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\VOSTRO DELL\AppData\Local\Programs\Python\Python311\;C:\Users\VOSTRO DELL\AppData\Local\Microsoft\WindowsApps;C:\Users\VOSTRO DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.2\bin;C:\Users\VOSTRO DELL\AppData\Roaming\Composer\vendor\bin;C:\Users\VOSTRO DELL\AppData\Roaming\npm;C:\Users\VOSTRO DELL\AppData\Local\Microsoft\WindowsApps;;C:\Users\VOSTRO DELL\AppData\Local\Programs\Ollama;C:\Program Files\Java\jdk-23\bin
+JRE paths:	C:\Program Files\Java\jdk-23;C:\Program Files\Java\jdk-23\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\VOSTRO DELL\AppData\Local\Programs\Ollama\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\Program Files\Java\jdk-23;E:\Git\cmd;D:\laragon\bin\php\php-8.1.10-Win32-vs16-x64;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\ComposerSetup\bin;C:\xampp\php;C:\Program Files\Apache\Maven\apache-maven-3.9.10\bin;C:\Program Files\nodejs\;F:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;F:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Users\VOSTRO DELL\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\VOSTRO DELL\AppData\Local\Programs\Python\Python311\;C:\Users\VOSTRO DELL\AppData\Local\Microsoft\WindowsApps;C:\Users\VOSTRO DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.2\bin;C:\Users\VOSTRO DELL\AppData\Roaming\Composer\vendor\bin;C:\Users\VOSTRO DELL\AppData\Roaming\npm;C:\Users\VOSTRO DELL\AppData\Local\Microsoft\WindowsApps;;C:\Users\VOSTRO DELL\AppData\Local\Programs\Ollama;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Version string: 1.023.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\VOSTRO DELL\Desktop\java\projekpbo\WaterReminder\WaterPooTracker.exe"
+Args length:	84/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\VOSTRO DELL\Desktop\java\projekpbo\WaterReminder\WaterPooTracker.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\VOSTRO DELL\Desktop\java\projekpbo\WaterReminder\.
+Requires JDK:	Yes
+Requires 64-Bit: No
+Java min ver:	1.008.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-23
+Substitute:	PATH = C:\Program Files\Java\jdk-23\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\VOSTRO DELL\AppData\Local\Programs\Ollama\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\Program Files\Java\jdk-23;E:\Git\cmd;D:\laragon\bin\php\php-8.1.10-Win32-vs16-x64;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\ComposerSetup\bin;C:\xampp\php;C:\Program Files\Apache\Maven\apache-maven-3.9.10\bin;C:\Program Files\nodejs\;F:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;F:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Users\VOSTRO DELL\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\VOSTRO DELL\AppData\Local\Programs\Python\Python311\;C:\Users\VOSTRO DELL\AppData\Local\Microsoft\WindowsApps;C:\Users\VOSTRO DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.2\bin;C:\Users\VOSTRO DELL\AppData\Roaming\Composer\vendor\bin;C:\Users\VOSTRO DELL\AppData\Roaming\npm;C:\Users\VOSTRO DELL\AppData\Local\Microsoft\WindowsApps;;C:\Users\VOSTRO DELL\AppData\Local\Programs\Ollama;C:\Program Files\Java\jdk-23\bin
+JRE paths:	C:\Program Files\Java\jdk-23;C:\Program Files\Java\jdk-23\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Adoptium\jdk-21.0.7.6-hotspot\bin;C:\Users\VOSTRO DELL\AppData\Local\Programs\Ollama\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Files\cpp\bin\Intel64;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\ProgramData\chocolatey\bin;C:\MinGW\bin;C:\Program Files\Java\jdk-23;E:\Git\cmd;D:\laragon\bin\php\php-8.1.10-Win32-vs16-x64;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\ProgramData\ComposerSetup\bin;C:\xampp\php;C:\Program Files\Apache\Maven\apache-maven-3.9.10\bin;C:\Program Files\nodejs\;F:\Program Files (x86)\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Microsoft SQL Server\160\DTS\Binn\;F:\Program Files (x86)\Microsoft SQL Server\160\DTS\Binn\;C:\Users\VOSTRO DELL\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\VOSTRO DELL\AppData\Local\Programs\Python\Python311\;C:\Users\VOSTRO DELL\AppData\Local\Microsoft\WindowsApps;C:\Users\VOSTRO DELL\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2024.2.2\bin;C:\Users\VOSTRO DELL\AppData\Roaming\Composer\vendor\bin;C:\Users\VOSTRO DELL\AppData\Roaming\npm;C:\Users\VOSTRO DELL\AppData\Local\Microsoft\WindowsApps;;C:\Users\VOSTRO DELL\AppData\Local\Programs\Ollama;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Check javac:	C:\Program Files\Java\jdk-23\bin\javac.exe (OK)
+Version string: 1.023.000 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-jar "C:\Users\VOSTRO DELL\Desktop\java\projekpbo\WaterReminder\WaterPooTracker.exe"
+Args length:	84/32768 chars
+Exit code:	0
