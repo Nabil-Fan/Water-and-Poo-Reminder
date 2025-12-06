@@ -141,7 +141,7 @@ water-poo-tracker/
 **Kelas:** A
 **Dosen:** Afrizal Doewes S.Kom., M.Sc.
 **Mata Kuliah:** Pemrograman Berorientasi Objek  
-**Universitas:** Universitas Sebelas MAret
+**Universitas:** Universitas Sebelas Maret
 
 ## Lisensi
 
@@ -156,7 +156,7 @@ Project ini dibuat untuk keperluan Final Project mata kuliah PBO.
 ## Kontak
 
 Untuk pertanyaan atau feedback, hubungi:
-- Email: [nabilfannani_7@student.uns.ac.id]
+- Email: [nabilfannani_7@student.uns.ac.id and ....]
 - GitHub Issues: [Link to issues]
 
 ---
