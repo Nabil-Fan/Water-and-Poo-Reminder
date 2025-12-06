@@ -6,7 +6,7 @@ Aplikasi desktop berbasis Java untuk memantau konsumsi air harian dan aktivitas 
 ![Swing](https://img.shields.io/badge/Swing-GUI-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-## 📋 Deskripsi
+## Deskripsi
 
 Water & Poo Tracker adalah aplikasi pelacak kesehatan yang membantu pengguna:
 - Mencatat konsumsi air harian
@@ -143,7 +143,7 @@ water-poo-tracker/
 **Mata Kuliah:** Pemrograman Berorientasi Objek  
 **Universitas:** Universitas Sebelas MAret
 
-## 📄 Lisensi
+## Lisensi
 
 Project ini dibuat untuk keperluan Final Project mata kuliah PBO.
 

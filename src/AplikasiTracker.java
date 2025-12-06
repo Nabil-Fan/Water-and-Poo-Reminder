@@ -371,7 +371,7 @@ public class AplikasiTracker extends JFrame {
             DateTimeFormatter fmt = DateTimeFormatter.ofPattern("dd/MM/yyyy");
 
             for (RecordHari r : dataManager.getRiwayatBulan(periode)) {
-                String status = r.getVolAir() >= target ? "✓" : "✗";
+                String status = r.getVolAir() >= target ? "√" : "X";
                 model.addRow(new Object[]{
                     r.getTanggal().format(fmt),
                     r.getVolAir(),
